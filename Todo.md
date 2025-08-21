@@ -6,10 +6,10 @@ This to-do list outlines the key phases and tasks for completing the statistics 
 
 ### Phase 0: Repository & Environment Setup
 
-*   [ ] **Initialize Git Repository:** Set up version control for the project.
-*   [ ] **Create Project Structure:** Set up directories for data, scripts, and outputs.
-*   [ ] **Environment Setup:** Create a Python environment with required packages (pandas, numpy, matplotlib, seaborn, scikit-learn).
-*   [ ] **Requirements File:** Create requirements.txt or environment.yml for reproducibility.
+*   [x] **Initialize Git Repository:** Set up version control for the project.
+*   [x] **Create Project Structure:** Set up directories for data, scripts, and outputs.
+*   [x] **Environment Setup:** Create a Python environment with required packages (pandas, numpy, matplotlib, seaborn, scikit-learn).
+*   [x] **Requirements File:** Create requirements.txt or environment.yml for reproducibility.
 
 ---
 

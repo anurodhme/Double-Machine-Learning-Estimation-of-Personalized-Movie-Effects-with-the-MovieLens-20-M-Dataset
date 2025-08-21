@@ -1,0 +1,28 @@
+# Core data analysis packages
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Data visualization
+plotly
+
+# Jupyter notebooks (optional)
+jupyter
+ipykernel
+
+# Data handling
+openpyxl  # For Excel files
+xlrd      # For older Excel files
+
+# Progress bars
+tqdm
+
+# For MovieLens dataset analysis
+# Note: scikit-surprise may need manual installation if needed
+# pip install scikit-surprise
