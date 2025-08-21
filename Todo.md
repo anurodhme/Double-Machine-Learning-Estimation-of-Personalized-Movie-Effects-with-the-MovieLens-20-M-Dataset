@@ -16,7 +16,7 @@ This to-do list outlines the key phases and tasks for completing the statistics 
 ### Phase 1: Data Acquisition
 
 *   [ ] **Finalize Dataset:** Confirm the primary dataset for the analysis.
-*   [ ] **Download Data:** [Dataset Link (one-click download)]('https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/')
+*   [x] **Download Data:** [Dataset Link (one-click download)]('https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset/')
 *   [ ] **Create Data Dictionary:** Document each variable, its type (e.g., numeric, categorical), and a brief description.
 *   [ ] **Store Raw Data:** Save the original, unaltered dataset in a dedicated `data/raw/` directory.
 

@@ -21,7 +21,10 @@ openpyxl  # For Excel files
 xlrd      # For older Excel files
 
 # Progress bars
-tqdm
+tqdm>=4.65.0
+
+# Dataset downloading
+kagglehub>=0.2.0
 
 # For MovieLens dataset analysis
 # Note: scikit-surprise may need manual installation if needed
