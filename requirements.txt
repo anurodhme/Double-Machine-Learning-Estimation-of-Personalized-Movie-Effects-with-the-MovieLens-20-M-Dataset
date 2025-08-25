@@ -9,6 +9,11 @@ scikit-learn
 scipy
 statsmodels
 
+# Advanced econometrics and causal inference
+doubleml
+econml
+linearmodels
+
 # Data visualization
 plotly
 
